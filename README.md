@@ -5,7 +5,7 @@
 | 章 | カテゴリ | リンク |
 | --- | --- | --- |
 | 特訓 1 日目 | データの確認 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8se8Q7yHWG4vaqFphmJmBjaCdqEvCF8?usp=sharing) |
-| 特訓 2 日目 | データの操作 |  |
+| 特訓 2 日目 | データの操作 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_mW_5SqaD42LJ727Tw946A2KYQTLcBlZ?usp=sharing) |
 | 特訓 3 日目 | データの抽出 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kgsGYBw8kDsYPm_4SErUmQnrITjAXMso?usp=sharing) |
 | 特訓 4 日目 | データの加工 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M9ir46MBWwXb8H0OqGCV_G5UgxphpfXX?usp=sharing) |
 | 特訓 5 日目 | データの集計 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U2PO6dqU4jq2tMqYLkRAkEpTWnu-0l5d?usp=sharing) |
