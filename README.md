@@ -1,7 +1,12 @@
 # polars-data-recipes-55
 書籍『Polarsとpandasで学ぶデータ処理アイデアレシピ55』のサポートサイトです。
 
-## 本書で取り扱ったコードへのリンク
+## 本書で取り扱ったコードの副教材
+
+### データの扱いについて
+各コードで扱うデータは、冒頭にダウンロードコマンドが記載されています。実行すると Colaboratory の一時環境に自動でダウンロードされます。
+
+### 各コードへのリンク
 | 章 | カテゴリ | リンク |
 | --- | --- | --- |
 | 特訓 1 日目 | データの確認 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8se8Q7yHWG4vaqFphmJmBjaCdqEvCF8?usp=sharing) |
